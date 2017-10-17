@@ -1,0 +1,218 @@
+[I 11:28:28.551 NotebookApp] The port 8888 is already in use, trying another port.
+[I 11:28:28.552 NotebookApp] The port 8889 is already in use, trying another port.
+[I 11:28:28.565 NotebookApp] Serving notebooks from local directory: /Users/yuhuan/working/git-repository/deeplearning-and-computer-vision-notes
+[I 11:28:28.565 NotebookApp] 0 active kernels 
+[I 11:28:28.565 NotebookApp] The Jupyter Notebook is running at: http://localhost:8890/?token=f6b2a88661b86d581bfd312baf0ecc5ca7a3f65dd5dd2337
+[I 11:28:28.565 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:28:28.568 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=f6b2a88661b86d581bfd312baf0ecc5ca7a3f65dd5dd2337
+0:97: execution error: "http://localhost:8890/tree?token=052fe15063e9313a110a07244b98e04dc4b33379b72ee7de" doesn’t understand the “open location” message. (-1708)
+[I 11:28:43.310 NotebookApp] 302 GET /?token=f6b2a88661b86d581bfd312baf0ecc5ca7a3f65dd5dd2337 (::1) 0.62ms
+[I 11:30:16.185 NotebookApp] Kernel started: d961dc6b-544c-4f40-adcb-a520845e33b3
+[I 11:31:46.147 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:31:46.521 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:31:46.777 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:32:01.871 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:32:16.161 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:33:43.929 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:34:16.163 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:34:18.005 NotebookApp] Kernel interrupted: d961dc6b-544c-4f40-adcb-a520845e33b3
+[I 11:34:26.141 NotebookApp] Kernel restarted: d961dc6b-544c-4f40-adcb-a520845e33b3
+[I 11:37:56.940 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:38:16.167 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 11:40:16.172 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:05:33.180 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:07:33.179 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:09:33.181 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:39:43.465 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:41:43.467 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:43:49.371 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:45:49.369 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:47:49.372 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:51:15.848 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:51:39.196 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:51:46.634 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:52:42.271 NotebookApp] Kernel shutdown: d961dc6b-544c-4f40-adcb-a520845e33b3
+[I 14:52:42.292 NotebookApp] Kernel started: 6db66d9f-5eab-4689-881e-6e7183bbff4e
+[I 14:53:55.684 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 14:57:55.690 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:02:05.694 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:03:11.311 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:04:43.838 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:05:09.813 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:06:06.399 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:07:37.710 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:08:06.400 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:08:30.003 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:09:19.152 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:09:41.000 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:09:52.186 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:11:15.118 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:12:16.409 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[W 15:13:45.604 NotebookApp] 404 GET /files/%E7%AC%AC04%E9%83%A8%E9%83%A8%E5%88%86--%E6%B7%B1%E5%BA%A6%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/all-images/timg?image (::1): No such file or directory: 第04部部分--深度卷积神经网络/all-images/timg
+[W 15:13:45.617 NotebookApp] 404 GET /files/%E7%AC%AC04%E9%83%A8%E9%83%A8%E5%88%86--%E6%B7%B1%E5%BA%A6%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/all-images/timg?image (::1) 14.62ms referer=http://localhost:8890/view/%E7%AC%AC04%E9%83%A8%E9%83%A8%E5%88%86--%E6%B7%B1%E5%BA%A6%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/all-images/timg%3Fimage
+[W 15:17:33.479 NotebookApp] delete /第04部部分--深度卷积神经网络/all-images
+[I 15:22:46.920 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:23:22.967 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:23:30.397 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:24:13.272 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:24:25.709 NotebookApp] Kernel shutdown: 6db66d9f-5eab-4689-881e-6e7183bbff4e
+[I 15:24:25.726 NotebookApp] Kernel started: f486289f-fa04-4625-92f6-9147d0d761d2
+[I 15:24:28.824 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:25:05.459 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:25:30.399 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:26:00.911 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:27:30.400 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:27:36.237 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:29:30.402 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:30:27.804 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:31:30.403 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:33:30.404 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:34:13.655 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:35:30.423 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:37:30.420 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:38:55.732 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:39:30.421 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:40:47.070 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:41:03.547 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:41:30.419 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:41:47.064 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:41:58.326 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:42:48.691 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:43:30.420 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:43:57.452 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:44:25.682 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:45:30.422 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:47:30.424 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:49:01.137 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:49:30.425 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:49:53.193 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:50:01.898 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:50:18.151 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:50:35.103 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:50:43.081 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:50:50.559 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:50:54.123 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:51:15.420 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:51:30.426 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:51:45.352 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:52:11.050 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:52:23.651 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:52:46.173 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:55:11.746 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:55:30.429 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:55:32.200 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:55:39.764 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:56:35.622 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:56:35.872 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:56:36.056 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:56:36.248 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:57:16.623 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 15:59:30.433 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:01:30.434 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:03:30.436 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:03:33.506 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:03:33.802 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:03:33.991 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:05:30.437 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:07:30.439 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:12:04.792 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:12:05.130 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:12:05.354 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:12:05.538 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:25:56.505 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:27:56.506 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:29:56.507 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:32:06.511 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:34:06.510 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:36:06.512 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:38:06.514 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:40:09.656 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:44:09.655 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:46:09.655 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:48:09.662 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:48:26.840 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:49:29.453 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:50:09.660 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:52:09.660 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:52:33.447 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:53:36.778 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:53:37.188 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:53:37.420 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:54:09.661 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:55:47.628 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:55:47.947 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:55:48.167 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:56:09.668 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:57:01.372 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:57:01.674 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:57:01.878 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:58:09.673 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 16:59:44.306 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:00:09.666 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:00:22.120 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:01:22.774 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:01:23.016 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:01:23.277 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:02:09.685 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:03:19.748 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:04:09.680 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:05:32.473 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:06:09.682 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:08:17.782 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:10:09.685 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:12:09.689 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:12:28.083 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:12:59.249 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:13:20.715 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:13:20.983 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:13:21.159 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:13:26.571 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:13:26.838 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:13:27.022 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:21:04.764 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:22:00.939 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:22:11.230 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:22:27.743 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:23:04.769 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:24:59.002 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:25:27.067 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:27:04.770 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:29:04.773 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:31:04.773 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:33:04.774 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:33:33.723 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:35:04.777 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:37:04.778 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:39:51.696 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:41:05.550 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:42:17.607 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:43:05.552 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:43:55.428 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:05.554 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:11.562 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:18.752 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:19.016 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:19.208 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:19.400 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:37.590 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:49.944 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:45:55.757 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:48:59.028 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:49:09.816 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:49:28.149 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:49:31.466 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:49:31.710 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:49:31.910 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:51:15.578 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:52:09.810 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:52:10.082 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:52:10.297 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:53:20.450 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[I 17:58:57.427 NotebookApp] Saving file at /第04部部分--深度卷积神经网络/深度卷积神经网络.ipynb
+[C 00:27:36.490 NotebookApp] received signal 15, stopping
+[I 00:27:36.532 NotebookApp] Shutting down kernels
+[I 00:27:37.048 NotebookApp] Kernel shutdown: f486289f-fa04-4625-92f6-9147d0d761d2
